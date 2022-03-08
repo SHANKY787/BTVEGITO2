@@ -26,7 +26,7 @@ legendary = 0
 mythical = 0
 ultrabeast = 0
 
-owner_ping = '<@872123628257427537>'
+owner_ping = '<@898449800264040458>'
 poketwo = 716390085896962058
 bot = commands.Bot(command_prefix="!")
 intervals = [2.5, 3, 3.1, 3.2, 3.3, 3.5]
