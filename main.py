@@ -6,7 +6,7 @@ from discord.ext import tasks
 
 channel_id = 904610663614255114
 token = 'ODcyMTIzNjI4MjU3NDI3NTM3.YibQLA.T88U5C-7h-3uCIWd-gmt4-Q7DaY'
-spam_id = 950606657996595310
+spam_id = 
 starboard_id = 904610636070277140
 
 with open('data/pokemon.txt', 'r', encoding='utf8') as file:
