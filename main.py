@@ -28,7 +28,7 @@ ultrabeast = 0
 
 owner_ping = '<@898449800264040458>'
 poketwo = 716390085896962058
-bot = commands.Bot(command_prefix="$∆~\€=RAJ")
+bot = commands.Bot(command_prefix="$∆+$&#::_+!#@@)//+:;~\€=RAJ")
 intervals = [2.5, 3, 3.1, 3.2, 3.3, 3.5]
 poketwo_prefix = '.'
 
