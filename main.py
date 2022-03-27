@@ -199,6 +199,7 @@ async def control(ctx, *,args ):
 async def commands(ctx):
     print('SENT HELP LIST')
     await ctx.send(':stars:``` Hello ``` [check if the bot alive in catching channel]  \n:desktop:Commands list: ```\n              !bal \n              !total \n              !rarecaught \n              !quest \n              !startrading ```\n :video_game:Control args command: ```!control (args)``` \n          [ Ex: ```!control .t x ]```')
-
+client.change_presence(activity=discord.Streaming(name = "𝐕єитι 𝐎ρ",url="https://youtube.com/Gunther"))
+    
 print(f'Pokétwo Autocatcher \nCode by Harry\nEvent Log:')
 bot.run(f"{token}")
