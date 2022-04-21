@@ -202,4 +202,4 @@ async def commands(ctx):
 
     
 print(f'Pokétwo Autocatcher \nCode by Harry\nEvent Log:')
-bot.run(f"{token}")
+bot.run(f"{token}").
