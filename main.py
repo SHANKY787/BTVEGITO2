@@ -5,7 +5,7 @@ from discord.ext import commands
 from discord.ext import tasks
 
 channel_id = 904610663614255114
-token = 'ODcyMTIzNjI4MjU3NDI3NTM3.YkF1EA.qeA8cyRerRbNP8cN-YOTHWkGJtg'
+token = 'OTQ3NTYyMzQ0ODYxNTY0OTUw.YkoAVg.7EQ-PU5NvCY04_Ezy5FmfT9fQHk'
 spam_id = 957920635202441210
 starboard_id = 904610636070277140
 
